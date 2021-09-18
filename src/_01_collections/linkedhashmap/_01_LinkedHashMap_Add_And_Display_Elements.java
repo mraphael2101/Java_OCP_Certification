@@ -19,7 +19,6 @@ public class _01_LinkedHashMap_Add_And_Display_Elements
 
         for (Map.Entry<Integer, String> m : hm.entrySet())
             System.out.println(m.getKey() + " " + m.getValue());
-
     }
 
 }
