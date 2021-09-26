@@ -1,6 +1,6 @@
 package _10_threads;
 
-public class ThreadSleepExample
+public class _01_ThreadSleepExample
 {
 	public static void main(String [] args)
 	{
